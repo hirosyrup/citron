@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/koalab-citron.iml" filepath="$PROJECT_DIR$/koalab-citron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/citron.iml" filepath="$PROJECT_DIR$/citron.iml" />
     </modules>
   </component>
 </project>
